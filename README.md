@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deikairru, u can call me 'Dee' as in letter 'D'
 - 🔥 I’m interested in UI/UX Design and Programming stuff
 - 🌱 I’m currently focusing on learning React js and Flutter
-- 💞️ Don't be fear to start collaborating on any Web, Mobile, or UI/UX design project.
+- 💞️ Don't be afraid to start collaborating on any project with me.
 - 🥰 U can email directly to me for a collab. I will send you a warm reply.
 - 😄 My Traits: ADD/ADHD
 - ⚡ Fun fact: I love cat
