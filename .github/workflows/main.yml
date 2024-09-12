@@ -23,6 +23,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Jakarta
+          config_display: large
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
